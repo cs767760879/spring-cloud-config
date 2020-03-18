@@ -9,7 +9,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/huzhicheng/config-only-a-demo.git
+          uri: https://github.com/cs767760879/spring-cloud-config.git
           skipSslValidation: true
           timeout: 4
           username: root
